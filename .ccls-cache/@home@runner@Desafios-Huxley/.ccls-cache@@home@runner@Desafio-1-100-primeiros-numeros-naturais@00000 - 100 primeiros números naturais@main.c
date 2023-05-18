@@ -1,3 +1,4 @@
+///00000 - 100 primeiros números naturais
 #include <stdio.h>
 #include <string.h>
 #include <math.h>
